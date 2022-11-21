@@ -1,0 +1,20 @@
+article {
+    text-align: center;
+}
+
+#booking {
+    display: flex;
+    margin: 70px 0px;
+    justify-content: center;
+}
+
+
+.data {
+    margin-left: 50px;
+    display: block;
+}
+
+form {
+    text-align: center;
+
+}
